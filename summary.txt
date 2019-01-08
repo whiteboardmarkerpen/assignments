@@ -1,0 +1,13 @@
+  1. "a"
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         0
+
+  2. "Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (3x)"
+
+	Type of data:          Boolean
+	Contains null values:  False
+	Unique values:         0
+
+Row count: 0

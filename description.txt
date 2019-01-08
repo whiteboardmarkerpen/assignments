@@ -1,0 +1,1 @@
+I chose to look at all the expenses made by the Chief of Administration. This program has filtered for that subset of data
